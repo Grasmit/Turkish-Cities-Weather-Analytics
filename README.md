@@ -1,4 +1,4 @@
-# DE Zoomcamp final project
+# Turkish Cities Weather Analytics
 
 ## Abstract
 Well, I was just vacationing in Turkey when I started the project, so I decided to research the weather in several Turkish cities for the last year.\
