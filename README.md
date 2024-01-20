@@ -1,7 +1,7 @@
 # Turkish Cities Weather Analytics
 
 ## Abstract
-This pipeline get the data about weather in 3 Turkish cities: Ankara (the capital), Istanbul (the biggest city) and Antalya (the main resort) and transforms it to show two charts: average temperature by month and cities and weather conditions distribution. Retrieving data is done on monthly basis. <i> It'd be more native to use the daily basis for weather, but it'd exceed the free quota of API.</i>\
+This pipeline get the data about weather in 3 Turkish cities: Ankara (the capital), Istanbul (the biggest city) and Antalya and transforms it to show two charts: average temperature by month and cities and weather conditions distribution. Retrieving data is done on monthly basis. <i> It'd be more native to use the daily basis for weather, but it'd exceed the free quota of API.</i>\
 <i>Another reason to choose such topic was that it's rather difficult to find any datasets for batch processing. They should be stored with some periodicity, like monthly in our NY taxi example, and I failed to find any. So I decided to use requests strategy to some API to produce monthly data. Then I chose an API free of charge.</i>
 
 ## Technologies
