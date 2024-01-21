@@ -19,4 +19,4 @@ If you fail using Terraform, complete these actions:
 </i>
 
 Next steps here:
-<a href="https://github.com/avyazg/de-zoomcamp-project/blob/main/airflow/readme.md">airflow</a>
+<a href="https://github.com/Grasmit/Weather-Analytics/blob/master/airflow/readme.md">airflow</a>
