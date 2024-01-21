@@ -60,4 +60,4 @@ gcloud dataproc jobs submit pyspark \
 </i>
 
 Next steps here:
-<a href="https://github.com/avyazg/de-zoomcamp-project/blob/main/dashboard/readme.md">dashboard</a>
+<a href="https://github.com/Grasmit/Weather-Analytics/blob/master/dashboard/readme.md">dashboard</a>
