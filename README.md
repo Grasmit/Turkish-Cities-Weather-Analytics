@@ -85,4 +85,4 @@ Go to the API documentation and find your api-key there in Header Parameters.
 Get this repo (do git clone or do whatever you want)
 
 Next steps here:
-<a href="https://github.com/grasmit/Weather-Analytics/blob/main/terraform/readme.md">terraform</a>
+<a href="https://github.com/Grasmit/Weather-Analytics/blob/master/terraform/readme.md">terraform</a>
